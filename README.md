@@ -1,14 +1,13 @@
 # GH Injector 4.4 ver
 
 
-How to download?
+How to download
 
 
-Click on the code
+Click on code
 
 
 Click the download zip
 
 
-Success
-
+Enjoy
