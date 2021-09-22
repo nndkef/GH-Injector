@@ -4,11 +4,11 @@
 How to download?
 
 
-click on the code
+Click on the code
 
 
 Click the download zip
 
 
-success
+Success
 
